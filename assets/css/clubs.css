@@ -1,0 +1,115 @@
+body{
+    color:white;
+    background-color: black;
+    padding-top: 52px;
+}
+.navbar{
+    background-color: black;
+    color: white;
+    
+}
+
+.nav-link{
+    color: white;
+}
+
+.navbar-brand{
+    color:white;
+}
+
+/* --- section 2 --*/
+
+#section2 img{
+    width: 900px;
+    height: 550px;
+    margin-bottom: 20px;
+}
+
+#section2 #img1 {
+    filter: grayscale(100%); 
+    -webkit-filter: grayscale(100%)
+}
+
+#section2 .img1{
+    margin-bottom: 20px;
+}
+
+#section2 .img1 h1{
+    font-size: 60px;
+    margin-bottom: 15px;
+}
+
+#section2 .img1 h4{
+    border-style: solid;
+    background-color: lightgrey;
+}
+
+#section2 .img1 .btn{
+    margin-top: 80px;
+}
+
+#section2 .img1 .btn p{
+    color:black;
+    font-weight: bold;
+    height: 3px;
+    font-size: 12px;
+}
+
+#section2 #img2{
+    margin-bottom: 120px;
+}
+
+#section2 #img2 h1{
+    font-size: 55px;
+    margin-bottom: 20px;
+}
+
+#section2 #img2 h6{
+    margin-bottom: 30px;
+}
+
+#section2 #img2 button{
+    width: 170px;
+    font-size: 11px;
+    height: 42px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+#section4 button{
+    margin-top: 20px;
+}
+#section4{
+    font-size: 15px;
+    background-color: black;
+    color:white;
+}
+
+#section4 a{
+    color: white;
+    font-size: 12px;
+    margin: 10px;
+}
+
+#section4 #row1 a{
+    margin-top: 25px;
+    margin-bottom: 20px
+}
+#section4 .col-4 i{
+    margin: 10px;
+    margin-bottom: 30px;
+    font-size: 14px;
+}
+
+#section4 .row p{
+    font-size: 11px;
+    margin-bottom: 40px;
+    color: grey;
+}
+

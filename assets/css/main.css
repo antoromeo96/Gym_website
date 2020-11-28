@@ -1,0 +1,374 @@
+body{
+    color:black;
+    background-color: white;
+    padding-top: 60px;
+}
+.navbar{
+    background-color: black;
+    color: white;
+    
+}
+
+.nav-link{
+    color: white;
+}
+
+.navbar-brand{
+    color:white;
+}
+
+/* -- section 1 --*/
+
+#col1{
+    text-align: center;
+    margin-top: 100px;
+}
+
+#col2{
+    text-align:center;
+    margin-top: 15px;
+    margin-bottom: 100px;
+}
+
+
+
+/*--- section 2 --- */
+
+#section2{
+    background-color: black;
+    margin-bottom: 15px;
+}
+
+#img1c{
+    margin-bottom: 170px;
+}
+
+#img1c > a > button{
+    font-size: 10px;
+    width: 150px;
+    height: 40px;
+    font-weight: bold;
+    
+}
+
+#img1{
+    margin-top: 20px;
+    height: 590px;
+    filter: grayscale(100%); 
+    -webkit-filter: grayscale(100%)  
+}
+
+#img2, #img3, #img4{
+    margin-top: 20px;
+    height: 590px;
+}
+
+#img_3 {
+    margin-bottom: 20px;
+}
+
+#img_3 h1{
+    font-size: 50px;
+}
+
+#img_3 h4{
+    font-size: 30px;
+}
+
+#img_3 button{
+    margin-top: 50px;
+    width: 250px;
+    font-weight: bold;
+    font-size: 15px;
+    height: 50px;
+}
+
+
+
+#img_8 h1, p{
+    margin-bottom: 0px;
+}
+
+#img_8 h5{
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+#img_8 button{
+    margin-bottom: 50px;
+    width: 180px;
+    font-weight: bold;
+    font-size: 12px;
+    height: 40px;
+}
+
+#img_9 h1, p{
+    margin-bottom: 0px;
+}
+
+#img_9 h5{
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+#img_9 button{
+    margin-bottom: 30px;
+    width: 180px;
+    font-weight: bold;
+    font-size: 12px;
+    height: 40px;
+}
+
+
+.ciao{
+    margin-top: 40px;
+}
+.ciao a{
+    font-weight: bold;
+    color: white;
+    margin: 20px;
+    text-decoration: underline;
+}
+
+.ciao a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+.download h1{
+    margin-top: 90px;
+    margin-bottom: 50px;
+    font-size: 50px;
+}
+
+.download p{
+    margin-top: 25px;
+}
+
+.download #down1{
+    margin-top: 50px;
+    width: 150px;
+}
+
+.download #down2{
+    margin-top: 50px;
+    width: 150px;
+    margin-right: 3px;
+}
+
+
+#img7{
+    margin-top: 20px;
+    height: 590px;
+}
+
+#img8{
+    
+}
+
+.col-6{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#col4{
+    background-color: black;
+    margin-bottom: 0;
+    width: 350px;
+    height: 500px;
+    margin-left: -30px;
+}
+
+#col4 p{
+    margin-top: 20px;
+}
+
+#col4 h1{
+    font-size: 50px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+#col4 button{
+    margin-top:25px;
+    margin-bottom: 30px;
+    width: 160px;
+    font-weight: bold;
+    font-size: 11px;
+    height: 40px;
+}
+
+/* --- section 3 --*/
+
+#section3{
+    margin-top: 20px;
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+#section3 .row #row1 a{
+    font-size: 50px;
+}
+
+
+/* -- cection 4 -- */
+
+#section4 button{
+    margin-top: 20px;
+}
+#section4{
+    font-size: 15px;
+    background-color: black;
+    color:white;
+}
+
+#section4 a{
+    margin-top: 40px;
+    color: white;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+#row1 a{
+    margin-top: 25px;
+}
+.col-4 i{
+    margin: 10px;
+    margin-bottom: 30px;
+}
+
+#row3 p{
+    font-size: 12px;
+    margin-bottom: 40px;
+}
+
+/* --- */
+.popular-courses {
+  background-color: #f2f5f6;
+}
+.popular-courses .section-heading h1 {
+  margin-bottom: 0px;
+}
+.popular-courses .section-heading img {
+  padding-top: -5px;
+}
+.popular-courses .section-heading p {
+  padding-bottom: 40px;
+}
+.popular-courses .course-item {
+  margin: 0 8px;
+}
+.popular-courses .course-item img {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.popular-courses .course-item .down-content {
+  background-color: #ffffff;
+  margin-top: -10px;
+}
+.popular-courses .course-item .down-content img {
+  margin-left: 15px;
+  float: left;
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  margin-top: -27px;
+  border: 2px solid #ffffff;
+}
+.popular-courses .course-item .down-content h6 {
+  padding-top: 6px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+  color: #a8a8a8;
+  font-weight: 300;
+  letter-spacing: 0.2px;
+  margin-left: 70px;
+}
+.popular-courses .course-item .down-content .price-red {
+  float: right;
+}
+.popular-courses .course-item .down-content .price-red span {
+  position: relative;
+  z-index: 10;
+  margin-top: -21px;
+  display: block;
+  margin-left: 32px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: #ffffff;
+}
+.popular-courses .course-item .down-content .price-red .base {
+  position: relative;
+  z-index: 9;
+  margin-top: -23px;
+  width: 85px;
+  height: 30px;
+  line-height: 0;
+  border: 16px solid #a12c2f;
+  border-left: 1.5em solid transparent;
+  left: 0;
+  top: 0;
+}
+.popular-courses .course-item .down-content .price-yellow {
+  float: right;
+}
+.popular-courses .course-item .down-content .price-yellow span {
+  position: relative;
+  z-index: 10;
+  margin-top: -21px;
+  display: block;
+  margin-left: 32px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: #ffffff;
+}
+.popular-courses .course-item .down-content .price-yellow .base {
+  position: relative;
+  z-index: 9;
+  margin-top: -23px;
+  width: 85px;
+  height: 30px;
+  line-height: 0;
+  border: 16px solid #f5a425;
+  border-left: 1.5em solid transparent;
+  left: 0;
+  top: 0;
+}
+.popular-courses .course-item .down-content h4 {
+  margin-top: 20px;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-left: 20px;
+  line-height: 20px;
+  margin-bottom: 15px;
+}
+.popular-courses .course-item .down-content p {
+  padding: 0px 20px;
+}
+.popular-courses .course-item .down-content .text-button {
+  margin-left: 20px;
+  padding-bottom: 20px;
+}
+.popular-courses .owl-pagination {
+  margin-top: 40px;
+  opacity: 1;
+  display: inline-block;
+}
+.popular-courses .owl-pagination .owl-page span {
+  display: block;
+  width: 8px;
+  height: 8px;
+  margin: 0px 5px;
+  filter: alpha(opacity=50);
+  opacity: 0.5;
+  background-color: #f5a425;
+}
+
+

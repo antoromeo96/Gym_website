@@ -1,0 +1,32 @@
+body{
+    color:white;
+    background-color: black;
+    padding-top: 52px;
+}
+.navbar{
+    background-color: black;
+    color: white;
+    
+}
+
+.nav-link{
+    color: white;
+}
+
+.navbar-brand{
+    color:white;
+}
+
+/* -- section 1 --*/
+#section1 img{
+    height: 560px;
+}
+
+#section2{
+    background-color: white;
+    color: black;
+}
+
+#section2 .row .col-8{
+    margin-top: 100px;
+}
